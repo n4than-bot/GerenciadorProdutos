@@ -1,0 +1,14 @@
+/home/scooby/POO-I/gerenciador_produtos/bin/Debug/net10.0/gerenciador_produtos
+/home/scooby/POO-I/gerenciador_produtos/bin/Debug/net10.0/gerenciador_produtos.deps.json
+/home/scooby/POO-I/gerenciador_produtos/bin/Debug/net10.0/gerenciador_produtos.runtimeconfig.json
+/home/scooby/POO-I/gerenciador_produtos/bin/Debug/net10.0/gerenciador_produtos.dll
+/home/scooby/POO-I/gerenciador_produtos/bin/Debug/net10.0/gerenciador_produtos.pdb
+/home/scooby/POO-I/gerenciador_produtos/obj/Debug/net10.0/gerenciador_produtos.GeneratedMSBuildEditorConfig.editorconfig
+/home/scooby/POO-I/gerenciador_produtos/obj/Debug/net10.0/gerenciador_produtos.AssemblyInfoInputs.cache
+/home/scooby/POO-I/gerenciador_produtos/obj/Debug/net10.0/gerenciador_produtos.AssemblyInfo.cs
+/home/scooby/POO-I/gerenciador_produtos/obj/Debug/net10.0/gerenciador_produtos.csproj.CoreCompileInputs.cache
+/home/scooby/POO-I/gerenciador_produtos/obj/Debug/net10.0/gerenciador_produtos.dll
+/home/scooby/POO-I/gerenciador_produtos/obj/Debug/net10.0/refint/gerenciador_produtos.dll
+/home/scooby/POO-I/gerenciador_produtos/obj/Debug/net10.0/gerenciador_produtos.pdb
+/home/scooby/POO-I/gerenciador_produtos/obj/Debug/net10.0/gerenciador_produtos.genruntimeconfig.cache
+/home/scooby/POO-I/gerenciador_produtos/obj/Debug/net10.0/ref/gerenciador_produtos.dll
