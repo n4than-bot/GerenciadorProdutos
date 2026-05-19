@@ -1,0 +1,15 @@
+/home/docente/Downloads/teste-github/GerenciadorProdutos/bin/Debug/net8.0/gerenciador_produtos
+/home/docente/Downloads/teste-github/GerenciadorProdutos/bin/Debug/net8.0/gerenciador_produtos.deps.json
+/home/docente/Downloads/teste-github/GerenciadorProdutos/bin/Debug/net8.0/gerenciador_produtos.runtimeconfig.json
+/home/docente/Downloads/teste-github/GerenciadorProdutos/bin/Debug/net8.0/gerenciador_produtos.dll
+/home/docente/Downloads/teste-github/GerenciadorProdutos/bin/Debug/net8.0/gerenciador_produtos.pdb
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/gerenciador_produtos.GeneratedMSBuildEditorConfig.editorconfig
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/gerenciador_produtos.AssemblyInfoInputs.cache
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/gerenciador_produtos.AssemblyInfo.cs
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/gerenciador_produtos.csproj.CoreCompileInputs.cache
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/gerenciador_produtos.sourcelink.json
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/gerenciador_produtos.dll
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/refint/gerenciador_produtos.dll
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/gerenciador_produtos.pdb
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/gerenciador_produtos.genruntimeconfig.cache
+/home/docente/Downloads/teste-github/GerenciadorProdutos/obj/Debug/net8.0/ref/gerenciador_produtos.dll
